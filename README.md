@@ -1,4 +1,4 @@
-# Behavioral AI Lab — Demo Repo
+# Behavioral AI Lab (Demo Repo)
 This is a basic repository for demoing a simple, ethical data workflow:
 1) load a tiny synthetic dataset
 2) clean a column name
