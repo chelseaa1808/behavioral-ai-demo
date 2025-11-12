@@ -15,12 +15,6 @@ python app.py
 ```
 ---
 
-
-## requirements.txt
-```text
-pandas>=2.0
-```
-
 Learn more abut markdown syntax here: 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
