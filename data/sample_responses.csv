@@ -1,0 +1,6 @@
+participant_id,age,condition,rt_ms,correct
+P001,22,A,523,1
+P002,31,B,742,0
+P003,27,A,481,1
+P004,29,B,660,1
+P005,24,A,702,0
